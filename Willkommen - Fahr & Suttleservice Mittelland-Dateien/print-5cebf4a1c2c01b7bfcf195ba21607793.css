@@ -1,0 +1,8 @@
+#logo,#meta,#lang, #icons,#navigation,.footer1,.footer2,.footer3{display:none}
+html,body{min-height:100%;width:100%;background-color:#FFF;background-image:none;color:#000}
+body{font-size:15px;font-family:'FrutigerNeueW02-BookIt',sans-serif;color:#000;margin:20px 40px}
+*,p,h1,h2,h3,h4,b,strong,th{color:#000 !important}
+a.pdf{display:none}
+#logoPrint{display:block;float:right;margin-right:30px}
+#wrap{clear:both}
+.footerInner{background-color:#FFF;height:120px}
